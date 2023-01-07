@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently looking for a job
-- 🐍 I’m currently learning Python
+- 🔭 I am currently looking for a job as a Junior Front-End or Back-end Developer
+- 🐍 I am also learning Python
