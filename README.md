@@ -15,5 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I am currently looking for a job as a Junior Front-End or Back-end Developer
-- 🐍 I am also learning Python
+
+
+
+My name is Yasmina.
+
+I am a Junior Web Developer with a passion for web backend using PHP and Java as well as DB management using MySQL.
+I also have experience in creating responsive designs using JavaScript, HTML, CSS, and Bootstrap.
+I have been gaining experience in this field since 2020 and recently expanded my skillset to include programming with Python in 2022.
+I also have experience with CMS such as PrestaShop and WordPress.
+
+- 🔎 I am currently seeking a Junior Web Developer position to further develop my skills in more projects.
+- 📫 How to reach me: yasminagrh@protonmail.com
+
