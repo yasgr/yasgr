@@ -26,5 +26,5 @@ I have been gaining experience in this field since 2020 and recently expanded my
 I also have experience with CMS such as PrestaShop and WordPress.
 
 - 🔎 I am currently seeking a Junior Web Developer position to further develop my skills in more projects.
-- 📫 How to reach me: yasminagrh@protonmail.com
+- 📫 How to reach me: yasminagrh@proton.me
 
