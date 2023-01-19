@@ -29,7 +29,7 @@ I also have experience with CMS such as PrestaShop and WordPress.
 - 📫 How to reach me: yasminagrh@proton.me
 
 
- 
+ <hr>
 
 <div style="display: inline_block" align="center"><br>
     <img align="center" alt="PHP" height="40px" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />
@@ -44,11 +44,18 @@ I also have experience with CMS such as PrestaShop and WordPress.
     </div>
 <br>
 
-   ![Yasgr's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasgr&show_icons=true&theme=cobalt)
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasgr&layout=compact&&exclude_repo=Landing-Page)
+   ![Yasgr's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yasgr&show_icons=true&theme=cobalt&card_width=480)
+   ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yasgr&layout=compact&&exclude_repo=Landing-Page&theme=cobalt&card_width=300)
+  <br><br><hr>
+ Repositories:<br>
    
-   
-   eCommerce Website made with PHP, JS, HTML, CSS and SQL:<br>
-   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasgr&repo=Deus-PC)
+   <a href="https://github.com/yasgr/Deus-PC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yasgr&repo=Deus-PC&theme=cobalt" />
+</a>
+<a href="https://github.com/yasgr/Landing-Page">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yasgr&repo=Landing-page&theme=cobalt" />
+</a>
+
+
    
    
