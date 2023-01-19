@@ -48,8 +48,8 @@ I also have experience with CMS such as PrestaShop and WordPress.
   
    <div align="center">
     <a href="https://github.com/yasgr">
-    <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=yasgr&show_icons=true&theme=cobalt"/>
-    <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasgr&layout=compact&theme=cobalt&exclude_repo=Landing-Page"/>
+    <img height="180rem" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yasgr&show_icons=true&theme=cobalt"/>
+    <img height="180rem" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yasgr&layout=compact&theme=cobalt&exclude_repo=Landing-Page"/>
    </div>
   <br><br><hr>
  
@@ -57,10 +57,10 @@ I also have experience with CMS such as PrestaShop and WordPress.
  
    <div align="center">
    <a href="https://github.com/yasgr/Deus-PC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yasgr&repo=Deus-PC&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yasgr&repo=Deus-PC&theme=cobalt" />
 </a>
 <a href="https://github.com/yasgr/Landing-Page">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yasgr&repo=Landing-page&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yasgr&repo=Landing-page&theme=cobalt" />
 </a>
  </div>
 
