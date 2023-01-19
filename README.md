@@ -44,18 +44,25 @@ I also have experience with CMS such as PrestaShop and WordPress.
     </div>
 <br>
 
-   ![Yasgr's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yasgr&show_icons=true&theme=cobalt&card_width=480)
-   ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yasgr&layout=compact&&exclude_repo=Landing-Page&theme=cobalt&card_width=300)
+  
+  
+   <div align="center">
+    <a href="https://github.com/yasgr">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasgr&show_icons=true&theme=cobalt&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasgr&layout=compact&theme=cobalt"/>
+   </div>
   <br><br><hr>
- Repositories:<br>
-   
+ 
+### Repositories:<br>
+ 
+   <div align="center">
    <a href="https://github.com/yasgr/Deus-PC">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yasgr&repo=Deus-PC&theme=cobalt" />
 </a>
 <a href="https://github.com/yasgr/Landing-Page">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yasgr&repo=Landing-page&theme=cobalt" />
 </a>
-
+ </div>
 
    
    
