@@ -45,6 +45,7 @@ I also have experience with CMS such as PrestaShop and WordPress.
 <br>
 
    ![Yasgr's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasgr&show_icons=true&theme=cobalt)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasgr&layout=compact&&exclude_repo=Landing-Page)(https://github.com/yasgr)
    
    
    eCommerce Website made with PHP, JS, HTML, CSS and SQL:<br>
