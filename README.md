@@ -49,7 +49,7 @@ I also have experience with CMS such as PrestaShop and WordPress.
    <div align="center">
     <a href="https://github.com/yasgr">
     <img height="180rem" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yasgr&show_icons=true&theme=cobalt"/>
-    <img height="180rem" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yasgr&layout=compact&theme=cobalt&exclude_repo=Landing-Page"/>
+    <img height="180rem" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yasgr&layout=compact&theme=cobalt"/>
    </div>
   <br><br><hr>
  
