@@ -24,7 +24,7 @@ I am a Web Developer with experience in creating responsive designs using JavaSc
 I have been gaining experience in this field since 2020 and recently expanded my skillset to include programming with React in 2023.
 I also have experience with CMS such as PrestaShop and WordPress.
 
-- 📫 How to reach me: yasminagrh@proton.me
+- 📫 How to reach me: yasminagzrh@gmail.com
 
 
  <hr>
