@@ -31,10 +31,8 @@ I most recently worked at **Mews**, where I developed and maintained React/TypeS
 ## Featured repositories
 
 <div align="center">
-  <a href="https://github.com/yasgr/Deus-PC">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yasgr&repo=Deus-PC&theme=cobalt" />
-  </a>
-  <a href="https://github.com/yasgr/Landing-page">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yasgr&repo=Landing-page&theme=cobalt" />
-  </a>
+ <a href="https://github.com/yasgr/Subwise">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yasgr&repo=Subwise&theme=cobalt" />
+ </a>
+
 </div>
