@@ -1,4 +1,4 @@
-# Hi, I'm Yasmina González 👋
+# Hi, I'm Yasmina 👋
 
 Frontend Developer with 3+ years of experience building web applications with React and TypeScript. I have a background in fintech SaaS and full-stack development, with a strong focus on building reliable, user-facing products.
 
@@ -9,8 +9,6 @@ I most recently worked at **Mews**, where I developed and maintained React/TypeS
  ⚛️ Focused on frontend development with React and TypeScript
  
  🧪 Interested in quality, maintainability, and E2E testing
- 
- 🌐 Portfolio: [yasgr.github.io](https://yasgr.github.io)
  
  📫 Contact: [yasminagzrh@gmail.com](mailto:yasminagzrh@gmail.com)
 
