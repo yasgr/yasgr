@@ -32,7 +32,7 @@ I most recently worked at **Mews**, where I developed and maintained React/TypeS
 
 <div align="center">
  <a href="https://github.com/yasgr/Subwise">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yasgr&repo=Subwise&theme=cobalt" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=yasgr&repo=Subwise&theme=cobalt" />
  </a>
 
 </div>
